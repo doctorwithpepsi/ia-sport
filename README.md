@@ -191,7 +191,7 @@ Meilleure stabilité temporelle
 
 Meilleure séparation entre lay-up / dunk / jump-shot
 
-Précision test typique : ~70–80% (selon split)
+Précision test typique : ~48% (selon split)
 
 
 YOLO avec regles spatiaux :
