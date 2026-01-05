@@ -13,7 +13,7 @@ Des règles spatiales et heuristiques pour améliorer l’interprétation des ti
 
 Le projet a été réalisé dans le cadre du module IA & Sport.
 
-Les modeles utilisés: https://drive.google.com/drive/folders/15BEv9xbFA01Qay-NmA8whOSEt8nH-6uX?usp=sharing
+Les modèles utilisés: https://drive.google.com/drive/folders/15BEv9xbFA01Qay-NmA8whOSEt8nH-6uX?usp=sharing
 
 # Objectifs
 Détecter automatiquement les joueurs, le ballon et le panier dans une vidéo de basket
