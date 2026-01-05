@@ -1,4 +1,4 @@
-# ia-sport
+# IA&Sport. Analyse de l'action au basketball
 Analyse automatique des actions en basket-ball (YOLOv8, C3D, I3D)
 
 Ce projet vise à détecter et analyser automatiquement des actions de basket-ball à partir de vidéos à l’aide de la vision par ordinateur et du deep learning. Il combine :
